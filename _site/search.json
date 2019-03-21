@@ -1,0 +1,185 @@
+[
+  
+    {
+      "title"    : "Why you may want to consider using a VPN",
+      "category" : "vpnsecuritytechnology",
+      "tags"     : "vpn, security, technology",
+      "url"      : "/vpn/security/technology/2019/03/15/vpn.html",
+      "date"     : "2019-03-15 11:30:00 -0600",
+      "content"  : "If you read through some of my posts you should soon get it if you haven't already, securityis an issue, and a big one, ignoring the problem does not make it go away, and you need to take an active approach to protecting yourself and your families data online.Big corporations like to make things easy for you, adding incredible convenience to your life. But you forget, it comes at a cost.Look at Youtube, demonetizing content creators videos just for something they said, or someone they agree with is someone Youtube doesn't like. The same with college campuses, many with a different or non "progressive" voice are being oppressed now, for challenging ideas and concepts, just asking questions, or even just disagreeing! Pursuing this political and corporate train of thought can deserve its own book, so we're going to ignore further pursing this chain for now and focus on another way to protect yourself.If you want to see a small picture of what websites and web browsers can easily find out about you, check out dnsleaktest, ipleak, myip, or whatsmybrowser.You will probably see information like your current browser, Chrome, Firefox, Safari, etc. Maybe some plugins or extensions, your desktop version, whether it's Mac OS, Windows, Android, Linux, etc. And even your location and the size of the display you are currently using. All this adds up into a unique fingerprint that can still help ISP's and other agencies track who you are! For non technical users this may start to look like syfy or conspiracies, but this is only the foundations of the cyber security world.Hopefully this is starting to paint a picture for you about security. I still recommend using secure applications like the Brave browser, but ISP's, other eavsdroppers on public wifi, and rouge wifi access points or MITM attacks, leave your devices wanting more security.This is where the VPN comes in. Or Virtual Private Network. An encrypted network between you and the end point.There are thousands of VPN providers out there, it’s a low cost for entry because you can run VPN services on virtual “computers”, and most technical users could setup there own. The benefits of using a VPN service provider are the ease of use, device clients, and a wider spread of international locations you can connect to.You want too trust who you are connecting too, so you immediately want to rule out any VPN provider that is based in one of the 5, nine, or 14 eyes countries.Wikipedia states that the 5 eyes basically work together to collect and record your activities…. let me say it again, multiple countries working together to collect and record your activities, and they can force companies to turn over any data on you they have!The countries include  Australia  Canada  New Zealand  United Kingdom  United StatesThe 9 eyes includes  Australia  Canada  New Zealand  United Kingdom  United StatesAnd  Denmark  France  Netherlands  NorwayThe 14 eyes countries includes  Australia  Canada  New Zealand  United Kingdom  United States  Denmark  France  Netherlands  NorwayAnd  Germany  Belgium  Italy  Sweden  SpainDepending on when you read this article, you can do a quick search for the latest 5, 9, 14 eyes, or SSEUR countries.Also could look at restoreprivacy.com, they have a list of VPN providers in these countries.You may want a VPN provider that does not keep logs, if your data is encrypted there won’t be too much they could see, but some have dates and times you were connected, which can still easily help finger print you.I’ll later link a how to use article for a VPN service, and maybe further what VPN specifically isI did like this site a little more, but they have recommended PIA, Private Internet Access which is USA based, but Torrent Freak does still have some good articles."
+    } ,
+  
+    {
+      "title"    : "How to use Metamask",
+      "category" : "cryptotechnologytutorial",
+      "tags"     : "crypto, technology, tutorial",
+      "url"      : "/crypto/technology/tutorial/2019/03/11/metamask-app.html",
+      "date"     : "2019-03-11 00:30:00 -0600",
+      "content"  : "To get the Metamask extension, follow the rough guide and notes below;Go to metamask.io and click on get Chrome extensionClick on add to ChromeConfirm by clicking the “Add Extension” button that pops upOnce it’s installed, it will redirect to the main page to setup your account, click “get started”Click on “Yes, let’s get setup!”, or if you actually have done this before and have a wallet/seed, why are you here?It will prompt you for to accept their agreement, click agreeCreate a password, please make sure you back this up in a safe place, not an Excel sheet saved on your computer.After you create a password click the blurred image to reveal the secret backup phrase. Heed their warnings and never share your phrase, if you have money in this wallet, and someone else obtains your phrase, they can restore you wallet from anywhere and suck all the tokens out.Once you reveal the phrase click next, you will be prompted to confirm you have it stored correctly.If you saved it correctly your account setup will be complete.This is what the wallet currently looks like.Click the top right account button for the settings, change privacy, passwords, and other basic acocunt settings there.See metamask.io/terms for more legal information.Or contact them for support from any of these;github.com/MetaMasktwitter.com/metamask_iocommunications@metamask.io    Disclaimer: This is not financial advice, it's your responsibility. This is ONLY  a guide to learn how to buy or use crypto currencies, they are very volitile and may not  be a safe store of value  "
+    } ,
+  
+    {
+      "title"    : "How to use Kyber swap",
+      "category" : "cryptotechnologytutorial",
+      "tags"     : "crypto, technology, tutorial",
+      "url"      : "/crypto/technology/tutorial/2019/03/11/kybernetwork.html",
+      "date"     : "2019-03-11 00:30:00 -0600",
+      "content"  : "Kyber swap, kyberswap.com/swap, makes it easy to swap your tokens for something else. And, it's a decentralized platform! It's a bit likeShapeShift.io. When I last used ShapeShiftthey were more privacy focused, if you converted a coin/token(s), the coin/token(s)you received would not be traceable back to you, basically this worked like a tumbler. but now, you need to sign up with ShapeShift.io.To my current knowledge, Kyber has not implemented this type of feature or it's unknown to me if they will look to add it in the future, but you don't need an account to use Kyber swap.To use Kyber swap, just select your method of funding, and swap for whatever coins/tokens they currently have available to swap for.Using ShapeShift.io to swapUsing Kyber to swap.Kyber swap gives you more options on where your funds come from , You now haveMetamask (checkout this article to learn how to use Metamask), a Trezor hard waller, a Ledger hard Wallet, a Keystore (if you use Ethereum or Mist wallet), A private key, and a promo code.They are implementing plently of sweet features, including API's to use on your own website.Take a look at coingecko.com, you can opt to swap for maker right now without even leaving their website.If you want to learn more, or keep up with their developments, head over Kyber swap blog or Kyber.network    Disclaimer: This is not financial advice, it's your responsibility. This is ONLY  a guide to learn how to buy or use crypto currencies, they are very volitile and may not  be a safe store of value  "
+    } ,
+  
+    {
+      "title"    : "Why small businesses are targets for hackers",
+      "category" : "businesssecurity",
+      "tags"     : "business, security",
+      "url"      : "/business/security/2019/03/10/small-business-targets.html",
+      "date"     : "2019-03-10 11:30:00 -0600",
+      "content"  : "The main reason we started out with a mindset and approach to provide securityservices to small businesses is for a few reasons, they don't care, it costs too much,and the thought, "I'm a small business why would I be hacked?"Here's another article, from ProtonMail, talking about the same thingprotonmail.com/blog/small-companies-cybersecurity/A small list of reasons small businesses are targets;- Confidential business correspondence- Employees' data- Customers' credit card details- Bank account details- Sensitive customers' data- Intellectual propertyA lot of small business managers or CEO's have this same mindset, that they won't be hacked becausethey are too small, "it's too much trouble just to hack a small company".I've talked with enough small business owners to understand, they don't know what'sgoing in their network, they don't know how unsecure they are, and they don't understand modern computer security.They're sharing passwords, using work computers for personal use, clicking on link in any email, and being just plain sloppy.Part of the problem is(will link my stats) the generation running most small businesses is older, they grew up before the internet boom, they didn't grow up with it, it's a much higher learning curve for them to use any technology. We'll probably be in the same boat when the next generation and following  grow up.This mindset still carries forward to a lot of big businesses, while working withmulti billion dollar companies, I've learned they just want the "checkbox compliance".Time and time again it's been cheaper for them to just make a payout after a settlementthan put money and effort into securing their environment.Anybody with a device connected to the internet is a target now, it's easy to masscan the internet for un-supecting small businesses that just want to hide their head in a hole in the ground when it comes to security. You have to address it at some point.Don't fall into the same errors and think you aren't or can't be a target,think and act before you get hacked"
+    } ,
+  
+    {
+      "title"    : "How to buy crypto on Changelly",
+      "category" : "cryptotutorial",
+      "tags"     : "crypto, tutorial",
+      "url"      : "/crypto/tutorial/2019/03/07/crypto-on-changelly.html",
+      "date"     : "2019-03-07 12:34:00 -0700",
+      "content"  : "A better way to buy into crypto is to use changelly, you can buy with a credit cardor even a gift cards. Head over to this linkchangelly.com/exchange/ to take a look or buy someClick on "Exchange" or on the link to buy"Bitcoin with Credit Card"Make sure you enter your correct address, there's no going back if you send someoneelse your new crypto.Click on next and then enter your billing/payment info    Disclaimer: This is not financial advice, it's your responsibility. This is ONLY  a guide to learn how to buy or use crypto currencies, they are very volitile and may not  be a safe store of value  "
+    } ,
+  
+    {
+      "title"    : "How to buy crypto on Coinbase",
+      "category" : "cryptotutorial",
+      "tags"     : "crypto, tutorial",
+      "url"      : "/crypto/tutorial/2019/03/05/crypto-coinbase.html",
+      "date"     : "2019-03-05 11:16:00 -0700",
+      "content"  : "While I'm not a big fan of coinbase, they make it darn easy for anyone new tocrypto currencies to buy. Sign up with this linkhttps://www.coinbase.com/join/and you can get $10 worth of Bitcoin free. ****if you buy at least $100 of BitcoinOnce you are signed up, link an account, a bank accounk may take a few days to verify,or you can add a credit card and pruchase immediately.After you have a payment type linked, you can buy BAT, or a handlefull of othercrypto currenies currently listed on CoinbaseMany services and businesses do accept Bitcoin or other cryptocurrencies as regular payments now, but if you are going to buy a service such as a VPN service, and want touse crypto to privately purchase this, don't use tokens/coins you have bought on a main service like Coinbase, addresses can be tracked, unless you use a challenging tumbler service. Use a local Bitcoin ATM, changelly, or search for another anonymous purchasing service.    Disclaimer: This is not financial advice, it's your responsibility. This is ONLY  a guide to learn how to buy or use crypto currencies, they are very volitile and may not  be a safe store of value  "
+    } ,
+  
+    {
+      "title"    : "Why you should use Brave browser",
+      "category" : "securitytechnologytutorial",
+      "tags"     : "security, technology, tutorial",
+      "url"      : "/security/technology/tutorial/2019/02/28/Brave-Browser.html",
+      "date"     : "2019-02-28 11:16:00 -0700",
+      "content"  : "For anyone that hates ads, like products that utilize the latestsecurity features, has plenty of customization, and doesn't look like 1995Netscape, take a look at Brave here https://brave.com/mou762The browser blocks thousands of ads, trackers, cookies, and scripts, easilyturn off a security feature, or the "shields", if it is hindering something on asite you are visiting. Another built in security feature is blocking auto playand scripts by default, so you reduce your exposure to accidentaly download any maliciouscontent.There's a full list of other features.  If you still really hate ads, but want support your favorite websites andauthors, or your favorite youtube channel, or even a twitch streamer,you can! Through BAT, Basic Authentication Token, you can contribute anyamount you want. Currently Brave is distributing grants to encourage adoption,once they no longer distribute monthly tokens for you to use, you can buy them,or, you will be able to "opt in" to certain ads, to earn tokens, which youcan then spend at over 250,000 partners with BAT, or re-contribute to contentcreators! Take a look at this other article for other information on the partners.Set auto contribute on settings or turn completely off.The opt in adds feature is not yet available,but if you want to add funds now or later, you can currently contribute Bitcoin,Ethereum, Litecoin, and of course BAT. See some of my other posts to learn howto buy BAT or other crypto currencies.For frequently browsed sites, add them to the tip section through auto contribute,or remove any sites that were added that you don't really support ;)The browser also can sync between your devices! Simply select the sync option fromyour browser menu.And capture the QR code from your phone. Make sure you download the Android or IOSapp here https://brave.com/mou762 first!If you still need help, you can always look atsupport.brave.comorcommunity.brave.com.If you're more technical github.com/brave.Of just email them at support@brave.comTOR is also built in! Select your browser menu, then open a private window through TOR! It's that easy.They are implementing ENSI by default, see these links to see how this affects your security through your local ISP.where-is-the-option-to-encrypted-ensifeature: support encrypted SNI #1851HTTPS upgrades force sites to upgrade to use https further helping you stay secure!I installed this browser in a Linux Debian instance and was not able to initially open the browser.here's a link to the commonDebian issue I experienced.I had to add run this cli command from root;echo 'kernel.unprivileged_userns_clone=1' &gt; /etc/sysctl.d/00-local-userns.confservice procps restartIf you have issues check out the github repo or add a commentFor now you can support your favorite sites for free, soon, for as little as a cup of coffee a month, you can automatically support your favoritesites without seeing ads, and soon, you'll be able to even earn that by opting into a few ads, creating this nice ecosystem.Now go download Brave!"
+    } 
+  
+  ,
+  
+   {
+     
+        "title"    : "404: Page not found",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/404.html",
+        "date"     : "",
+        "content"  : "  404: Page not found  Sorry, we've misplaced that URL or it's pointing to something that doesn't exist. Head back home to try finding it again."
+     
+   } ,
+  
+   {
+     
+        "title"    : "About",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/about.html",
+        "date"     : "",
+        "content"  : ""
+     
+   } ,
+  
+   {
+     
+   } ,
+  
+   {
+     
+        "title"    : "Categories",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/blog/category.html",
+        "date"     : "",
+        "content"  : "         security       technology       tutorial       crypto       business       vpn                security                                  Why you may want to consider using a VPN              15 Mar 2019                                              Why small businesses are targets for hackers              10 Mar 2019                                              Why you should use Brave browser              28 Feb 2019                                  technology                                  Why you may want to consider using a VPN              15 Mar 2019                                              How to use Metamask              11 Mar 2019                                              How to use Kyber swap              11 Mar 2019                                              Why you should use Brave browser              28 Feb 2019                                  tutorial                                  How to use Metamask              11 Mar 2019                                              How to use Kyber swap              11 Mar 2019                                              How to buy crypto on Changelly              07 Mar 2019                                              How to buy crypto on Coinbase              05 Mar 2019                                              Why you should use Brave browser              28 Feb 2019                                  crypto                                  How to use Metamask              11 Mar 2019                                              How to use Kyber swap              11 Mar 2019                                              How to buy crypto on Changelly              07 Mar 2019                                              How to buy crypto on Coinbase              05 Mar 2019                                  business                                  Why small businesses are targets for hackers              10 Mar 2019                                  vpn                                  Why you may want to consider using a VPN              15 Mar 2019                                  "
+     
+   } ,
+  
+   {
+     
+   } ,
+  
+   {
+     
+        "title"    : "Contact",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/contact.html",
+        "date"     : "",
+        "content"  : "                                                      Send  "
+     
+   } ,
+  
+   {
+     
+        "title"    : "Home",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/",
+        "date"     : "",
+        "content"  : "  We are currently based in Salida Colorado providing services  to local and small businesses that have a need for security, but cannot  afford the costly prices of the major market vendors.  The cybersecurity services are outlined on the below      Traffic and log analysis              This is our capstone service, managed security services can get costly,      especially for small businesses. A basic model IPS device runs around $25,000      plus a yearly $25,000 for support, signatures supscription, and maintenance.      To provide security in an affordable manner,      or in the absence of firewalls and IPS devices, this service analyses all      traffic for abnormal and malicious behavior.      This service helps flush out a positive security posture to help      guard your business against the most recent threats in an afforable manner.                  Analysis and action on alerts is not yet offered as a service,      but anomalies are reported for further investigation and these events can be reported to anyone      within your organization or IT team.                      Successful referrals signed up for any of our services can help reduce costs.              *minimum of 12/month contract                Vulnerability scanning              Regular vulnerability scanning and reporting of your network. Reports      can be delivered to your IT team for patching and remediation.                          *minimum of 12/month contract          "
+     
+   } ,
+  
+   {
+     
+        "title"    : "Blog",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/blog/",
+        "date"     : "",
+        "content"  : "            &nbsp;rss&nbsp;                     security                     technology                     tutorial                     crypto                     business                     vpn                          March 15  2019    Why you may want to consider using a VPN                    March 11  2019    How to use Metamask                    March 11  2019    How to use Kyber swap                    March 10  2019    Why small businesses are targets for hackers                    March 7  2019    How to buy crypto on Changelly                    March 5  2019    How to buy crypto on Coinbase                    February 28  2019    Why you should use Brave browser        "
+     
+   } ,
+  
+   {
+     
+   } ,
+  
+   {
+     
+   } ,
+  
+   {
+     
+   } ,
+  
+   {
+     
+   } ,
+  
+   {
+     
+   } ,
+  
+   {
+     
+   } ,
+  
+   {
+     
+        "title"    : "Tag",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/blog/tag.html",
+        "date"     : "",
+        "content"  : "      {% for tag in site.tags %}     {{ tag[0] }}    {% endfor %}        {% for tag in site.tags %}    {{ tag[0] }}          {% for post in tag[1] %}                      {{ post.title }}            {{ post.date | date_to_string }}                      {% endfor %}        {% endfor %}  "
+     
+   } ,
+  
+   {
+     
+   } ,
+  
+   {
+     
+   } 
+  
+]

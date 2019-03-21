@@ -1,0 +1,35 @@
+.post-tag {
+  display: inline-block;
+  // padding: 0 .5rem;
+  margin-right: .5rem;
+  border-radius: 4px;
+  color: #000000;
+  font-size: 90%; }
+  .post-tag:before {
+    padding-right: .5em;
+     }
+  .post-tag:hover {
+    text-decoration: none;
+    background: #d2dcd9;
+    color: white; }
+
+.tags, .blog_articles {
+  margin-left:1%;
+  margin-right: 1%;
+}
+
+.tags-list {
+
+}
+.tags-section {
+
+}
+.tags-posts {
+
+}
+.post-title {
+
+}
+.post-date {
+
+}

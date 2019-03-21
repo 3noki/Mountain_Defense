@@ -1,0 +1,27 @@
+---
+layout: default
+title: Contact
+---
+<div class="contact_container">
+<form name="contact" method="POST" netlify>
+  <p>
+    <input type="text" name="user_name" placeholder="Hi, what's your name?" required>
+    <span class="required-text"></span>
+  </p>
+  <p>
+    <input type="text" name="user_phone" placeholder="What's a good phone number?" required>
+    <span class="required-text"></span>
+  </p>
+  <p>
+    <input type="text" name="user_email" placeholder="What's your email address?" required>
+    <span class="required-text"></span>
+  </p>
+  <p>
+    <input type="text" name="user_message" placeholder="Can you tell us a bit about how we can help?" optional>
+    <span class="optional-text"></span>
+  </p>
+  <p>
+    <button class="button" type="submit"><span>Send</span></button>
+  </p>
+</form>
+</div>

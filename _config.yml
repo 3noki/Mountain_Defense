@@ -1,0 +1,42 @@
+#site settings
+title: mountain_defense
+url: https://mountaindefense.net
+baseurl: 
+
+# Pagination Settings
+pagination:
+  enabled: false
+  per_page: 8
+  permalink: '/page/:num/'
+  # limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+
+collections:
+security:
+  output: true
+  permalink: /:collection/:path/
+crypto:
+  output: true
+  permalink: /:collection/:path/
+business:
+  output: true
+  permalink: /:collection/:path/
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate-v2
+nav:
+  Home:
+    - '/'
+  Blog:
+    - '/blog/'
+    - { Categories: '/blog/categories/' }
+    - { Tags: '/blog/tags/' }
+  About:
+    - '/about/'
+
+tag_page: '/blog/tags/'
+category_page: '/blog/categories/'

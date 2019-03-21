@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>mountain_defense</title>
+ <link href="https://mountaindefense.net/atom.xml" rel="self"/>
+ <link href="https://mountaindefense.net/"/>
+ <updated>2019-03-19T18:48:21-06:00</updated>
+ <id>https://mountaindefense.net</id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Why you may want to consider using a VPN</title>
+   <link href="https://mountaindefense.net/vpn/security/technology/2019/03/15/vpn.html"/>
+   <updated>2019-03-15T11:30:00-06:00</updated>
+   <id>https://mountaindefense.net/vpn/security/technology/2019/03/15/vpn</id>
+   <content type="html">&lt;p&gt;
+If you read through some of my posts you should soon get it if you haven't already, security
+is an issue, and a big one, ignoring the problem does not make it go away, and you need to take an active approach to protecting yourself and your families data online.
+&lt;br /&gt;&lt;br /&gt;
+Big corporations like to make things easy for you, adding incredible convenience to your life. But you forget, it comes at a cost.
+&lt;br /&gt;&lt;br /&gt;
+Look at Youtube, demonetizing content creators videos just for something they said, or someone they agree with is someone Youtube doesn't like. The same with college campuses, many with a different or non &quot;progressive&quot; voice are being oppressed now, for challenging ideas and concepts, just asking questions, or even just disagreeing! Pursuing this political and corporate train of thought can deserve its own book, so we're going to ignore further pursing this chain for now and focus on another way to protect yourself.
+
+&lt;br /&gt;&lt;br /&gt;
+
+If you want to see a small picture of what websites and web browsers can easily find out about you, check out &lt;b&gt;&lt;a href=&quot;https://www.dnsleaktest.com/&quot;&gt;dnsleaktest&lt;/a&gt;&lt;/b&gt;, &lt;b&gt;&lt;a href=&quot;https://ipleak.net/
+&quot;&gt;ipleak&lt;/a&gt;&lt;/b&gt;, &lt;b&gt;&lt;a href=&quot;https://myip.report/browser-information/&quot;&gt;myip&lt;/a&gt;&lt;/b&gt;, or &lt;b&gt;&lt;a href=&quot;https://whatsmybrowser.org/&quot;&gt;whatsmybrowser&lt;/a&gt;&lt;/b&gt;.
+&lt;br /&gt;&lt;br /&gt;
+
+You will probably see information like your current browser, Chrome, Firefox, Safari, etc. Maybe some plugins or extensions, your desktop version, whether it's Mac OS, Windows, Android, Linux, etc. And even your location and the size of the display you are currently using. All this adds up into a unique fingerprint that can still help ISP's and other agencies track who you are! For non technical users this may start to look like syfy or conspiracies, but this is only the foundations of the cyber security world.
+&lt;br /&gt;&lt;br /&gt;
+
+Hopefully this is starting to paint a picture for you about security. I still recommend using secure applications like the &lt;b&gt;&lt;a href=&quot;/crypto/2019/02/28/Brave-Browser&quot;&gt;Brave browser&lt;/a&gt;&lt;/b&gt;, but ISP's, other eavsdroppers on public wifi, and rouge wifi access points or MITM attacks, leave your devices wanting more security.
+&lt;br /&gt;&lt;br /&gt;
+
+This is where the VPN comes in. Or Virtual Private Network. An encrypted network between you and the end point.
+&lt;br /&gt;&lt;br /&gt;
+
+&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/posts/2019-03-15/vpn.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;There are thousands of VPN providers out there, it’s a low cost for entry because you can run VPN services on virtual “computers”, and most technical users could setup there own. The benefits of using a VPN service provider are the ease of use, device clients, and a wider spread of international locations you can connect to.
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;You want too trust who you are connecting too, so you immediately want to rule out any VPN provider that is based in one of the 5, nine, or 14 eyes countries.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Five_Eyes&quot;&gt;Wikipedia&lt;/a&gt;&lt;/b&gt; states that the 5 eyes basically work together to collect and record your activities…. let me say it again, multiple countries working together to collect and record your activities, and they can force companies to turn over any data on you they have!
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The countries include&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Australia
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Canada
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;New Zealand
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;United Kingdom
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;United States
+&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The 9 eyes includes
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Australia
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Canada
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;New Zealand
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;United Kingdom
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;United States
+&lt;br /&gt;
+And
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Denmark
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;France
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Netherlands
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Norway
+&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The 14 eyes countries includes
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Australia
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Canada
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;New Zealand
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;United Kingdom
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;United States
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Denmark
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;France
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Netherlands
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Norway
+&lt;br /&gt;
+And
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Germany
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Belgium
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Italy
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Sweden
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Spain
+&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Depending on when you read this article, you can do a quick search for the latest 5, 9, 14 eyes, or SSEUR countries.
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Also could look at &lt;b&gt;&lt;a href=&quot;https://restoreprivacy.com/5-eyes-9-eyes-14-eyes/&quot;&gt;restoreprivacy.com&lt;/a&gt;&lt;/b&gt;, they have a list of VPN providers in these countries.
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;You may want a VPN provider that does not keep logs, if your data is encrypted there won’t be too much they could see, but some have dates and times you were connected, which can still easily help finger print you.
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ll later link a how to use article for a VPN service, and maybe further what VPN specifically is
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I did like this site a little more, but they have recommended PIA, &lt;b&gt;&lt;a href=&quot;https://www.privateinternetaccess.com/pages/buy-vpn/mountaindefense&quot;&gt;Private Internet Access&lt;/a&gt;&lt;/b&gt; which is USA based, but &lt;b&gt;&lt;a href=&quot;https://torrentfreak.com/do-you-take-your-vpn-security-seriously-180506/&quot;&gt;Torrent Freak&lt;/a&gt;&lt;/b&gt; does still have some good articles.
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>How to use Metamask</title>
+   <link href="https://mountaindefense.net/crypto/technology/tutorial/2019/03/11/metamask-app.html"/>
+   <updated>2019-03-11T00:30:00-06:00</updated>
+   <id>https://mountaindefense.net/crypto/technology/tutorial/2019/03/11/metamask-app</id>
+   <content type="html">&lt;p&gt;
+To get the Metamask extension, follow the rough guide and notes below;
+&lt;/p&gt;
+&lt;p&gt;Go to &lt;b&gt;&lt;a href=&quot;https://metamask.io/&quot;&gt;metamask.io&lt;/a&gt;&lt;/b&gt; and click on get Chrome extension
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/posts/2019-03-11/metamask.io.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Click on add to Chrome
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/posts/2019-03-11/metmask_chrome_store.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Confirm by clicking the “Add Extension” button that pops up
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/posts/2019-03-11/metamask_chrome_add_ext.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Once it’s installed, it will redirect to the main page to setup your account, click “get started”
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/posts/2019-03-11/metamask_redirected.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Click on “Yes, let’s get setup!”, or if you actually have done this before and have a wallet/seed, why are you here?
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/posts/2019-03-11/metamask_get_started.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;It will prompt you for to accept their agreement, click agree
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/posts/2019-03-11/metamask_create_new.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Create a password, please make sure you back this up in a safe place, not an Excel sheet saved on your computer.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/posts/2019-03-11/metamask_create_password.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;After you create a password click the blurred image to reveal the secret backup phrase. Heed their warnings and never share your phrase, if you have money in this wallet, and someone else obtains your phrase, they can restore you wallet from anywhere and suck all the tokens out.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/posts/2019-03-11/metamask_secret_key.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Once you reveal the phrase click next, you will be prompted to confirm you have it stored correctly.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/posts/2019-03-11/metamast_confirm_phrase.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you saved it correctly your account setup will be complete.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/posts/2019-03-11/metmask_complete.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is what the wallet currently looks like.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/posts/2019-03-11/metamask_wallets.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Click the top right account button for the settings, change privacy, passwords, and other basic acocunt settings there.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/posts/2019-03-11/metmask_settings_menu.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;See &lt;b&gt;&lt;a href=&quot;https://metamask.io/terms.html&quot;&gt;metamask.io/terms&lt;/a&gt;&lt;/b&gt; for more legal information.
+&lt;br /&gt;
+Or contact them for support from any of these;
+&lt;br /&gt;
+&lt;b&gt;&lt;a href=&quot;https://github.com/MetaMask/metamask-plugin&quot;&gt;github.com/MetaMask&lt;/a&gt;&lt;/b&gt;
+&lt;br /&gt;
+&lt;b&gt;&lt;a href=&quot;https://twitter.com/metamask_io&quot;&gt;twitter.com/metamask_io&lt;/a&gt;&lt;/b&gt;
+&lt;br /&gt;
+&lt;a href=&quot;mailto:communications@metamask.io&quot;&gt;communications@metamask.io&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;text&quot;&gt;
+  &lt;p&gt;
+  Disclaimer: This is not financial advice, it's your responsibility. This is ONLY
+  a guide to learn how to buy or use crypto currencies, they are very volitile and may not
+  be a safe store of value
+  &lt;/p&gt;
+&lt;/div&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>How to use Kyber swap</title>
+   <link href="https://mountaindefense.net/crypto/technology/tutorial/2019/03/11/kybernetwork.html"/>
+   <updated>2019-03-11T00:30:00-06:00</updated>
+   <id>https://mountaindefense.net/crypto/technology/tutorial/2019/03/11/kybernetwork</id>
+   <content type="html">&lt;p&gt;
+Kyber swap, &lt;b&gt;&lt;a href=&quot;https://kyberswap.com/swap/&quot;&gt;kyberswap.com/swap&lt;/a&gt;&lt;/b&gt;, makes it easy to swap your tokens for something else. And, it's a decentralized platform! It's a bit like
+&lt;b&gt;&lt;a href=&quot;https://shapeshift.io&quot;&gt;ShapeShift.io&lt;/a&gt;&lt;/b&gt;. When I last used ShapeShift
+they were more privacy focused, if you converted a coin/token(s), the coin/token(s)
+you received would not be traceable back to you, basically this worked like a tumbler. but now, you need to sign up with ShapeShift.io.
+To my current knowledge, Kyber has not implemented this type of feature or it's unknown to me if they will look to add it in the future, but you don't need an account to use Kyber swap.
+&lt;br /&gt;
+
+To use Kyber swap, just select your method of funding, and swap for whatever coins/tokens they currently have available to swap for.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/posts/2019-03-11/kyberswap.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+Using ShapeShift.io to swap
+&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/posts/2019-03-11/shapeshift.io.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+Using Kyber to swap.
+&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/posts/2019-03-11/selection.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+Kyber swap gives you more options on where your funds come from , You now have
+Metamask (checkout this article to learn how to use Metamask), a Trezor hard waller, a Ledger hard Wallet, a Keystore (if you use Ethereum or Mist wallet), A private key, and a promo code.
+&lt;/p&gt;
+
+&lt;p&gt;
+They are implementing plently of sweet features, including API's to use on your own website.
+Take a look at &lt;b&gt;&lt;a href=&quot;https://www.coingecko.com/en&quot;&gt;coingecko.com&lt;/a&gt;&lt;/b&gt;, you can opt to swap for maker right now without even leaving their website.
+&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/posts/2019-03-11/coingecko_maker_swap.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/posts/2019-03-11/coingecko_maker_swap_smaller.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/posts/2019-03-11/coingecko_maker_swapping.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/posts/2019-03-11/coingecko_swap.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;
+If you want to learn more, or keep up with their developments, head over &lt;b&gt;&lt;a href=&quot;https://medium.com/@kyberswap&quot;&gt;Kyber swap blog&lt;/a&gt;&lt;/b&gt; or &lt;b&gt;&lt;a href=&quot;https://kyber.network/&quot;&gt;Kyber.network&lt;/a&gt;&lt;/b&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;text&quot;&gt;
+  &lt;p&gt;
+  Disclaimer: This is not financial advice, it's your responsibility. This is ONLY
+  a guide to learn how to buy or use crypto currencies, they are very volitile and may not
+  be a safe store of value
+  &lt;/p&gt;
+&lt;/div&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Why small businesses are targets for hackers</title>
+   <link href="https://mountaindefense.net/business/security/2019/03/10/small-business-targets.html"/>
+   <updated>2019-03-10T11:30:00-06:00</updated>
+   <id>https://mountaindefense.net/business/security/2019/03/10/small-business-targets</id>
+   <content type="html">&lt;p&gt;
+The main reason we started out with a mindset and approach to provide security
+services to small businesses is for a few reasons, they don't care, it costs too much,
+and the thought, &quot;I'm a small business why would I be hacked?&quot;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/posts/2019-03-10/helloquence-61189-unsplash.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+Here's another article, from ProtonMail, talking about the same thing
+&lt;b&gt;&lt;a href=&quot;https://protonmail.com/blog/small-companies-cybersecurity/&quot;&gt;protonmail.com/blog/small-companies-cybersecurity/&lt;/a&gt;&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+A small list of reasons small businesses are targets;
+&lt;br /&gt;
+&lt;br /&gt;
+- Confidential business correspondence
+&lt;br /&gt;
+- Employees' data
+&lt;br /&gt;
+- Customers' credit card details
+&lt;br /&gt;
+- Bank account details
+&lt;br /&gt;
+- Sensitive customers' data
+&lt;br /&gt;
+- Intellectual property
+&lt;br /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+A lot of small business managers or CEO's have this same mindset, that they won't be hacked because
+they are too small, &quot;it's too much trouble just to hack a small company&quot;.
+I've talked with enough small business owners to understand, they don't know what's
+going in their network, they don't know how unsecure they are, and they don't understand modern computer security.
+
+They're sharing passwords, using work computers for personal use, clicking on link in any email, and being just plain sloppy.
+
+Part of the problem is(will link my stats) the generation running most small businesses is older, they grew up before the internet boom, they didn't grow up with it, it's a much higher learning curve for them to use any technology. We'll probably be in the same boat when the next generation and following  grow up.
+
+&lt;br /&gt;
+&lt;br /&gt;
+This mindset still carries forward to a lot of big businesses, while working with
+multi billion dollar companies, I've learned they just want the &quot;checkbox compliance&quot;.
+Time and time again it's been cheaper for them to just make a payout after a settlement
+than put money and effort into securing their environment.
+&lt;/p&gt;
+
+&lt;p&gt;
+Anybody with a device connected to the internet is a target now, it's easy to masscan the internet for un-supecting small businesses that just want to hide their head in a hole in the ground when it comes to security. You have to address it at some point.
+&lt;/p&gt;
+
+&lt;p&gt;
+Don't fall into the same errors and think you aren't or can't be a target,
+think and act before you get hacked
+&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>How to buy crypto on Changelly</title>
+   <link href="https://mountaindefense.net/crypto/tutorial/2019/03/07/crypto-on-changelly.html"/>
+   <updated>2019-03-07T12:34:00-07:00</updated>
+   <id>https://mountaindefense.net/crypto/tutorial/2019/03/07/crypto-on-changelly</id>
+   <content type="html">&lt;p&gt;
+A better way to buy into crypto is to use changelly, you can buy with a credit card
+or even a gift cards. Head over to this link
+&lt;b&gt;&lt;a href=&quot;https://old.changelly.com/exchange/USD/BTC/100?ref_id=hsugpj3nnskhuvwi&quot;&gt;changelly.com/exchange/&lt;/a&gt;&lt;/b&gt; to take a look or buy some
+&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/posts/2019-03-07/changelly_link.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+Click on &quot;Exchange&quot; or on the link to buy
+&quot;Bitcoin with Credit Card&quot;
+&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/posts/2019-03-07/changelly.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+Make sure you enter your correct address, there's no going back if you send someone
+else your new crypto.
+&lt;br /&gt;
+Click on next and then enter your billing/payment info
+&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/posts/2019-03-07/changelly_buy.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;text&quot;&gt;
+  &lt;p&gt;
+  Disclaimer: This is not financial advice, it's your responsibility. This is ONLY
+  a guide to learn how to buy or use crypto currencies, they are very volitile and may not
+  be a safe store of value
+  &lt;/p&gt;
+&lt;/div&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>How to buy crypto on Coinbase</title>
+   <link href="https://mountaindefense.net/crypto/tutorial/2019/03/05/crypto-coinbase.html"/>
+   <updated>2019-03-05T11:16:00-07:00</updated>
+   <id>https://mountaindefense.net/crypto/tutorial/2019/03/05/crypto-coinbase</id>
+   <content type="html">&lt;p&gt;
+While I'm not a big fan of coinbase, they make it darn easy for anyone new to
+crypto currencies to buy. Sign up with this link
+&lt;b&gt;&lt;a href=&quot;https://www.coinbase.com/join/5293694b2e44f360bc00036d&quot;&gt;https://www.coinbase.com/join/&lt;/a&gt;&lt;/b&gt;
+and you can get $10 worth of Bitcoin free. ****if you buy at least $100 of Bitcoin
+&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/posts/2019-03-05/coinbase_referral.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+Once you are signed up, link an account, a bank accounk may take a few days to verify,
+or you can add a credit card and pruchase immediately.
+&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/posts/2019-03-05/link_account.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+After you have a payment type linked, you can buy BAT, or a handlefull of other
+crypto currenies currently listed on Coinbase
+&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/posts/2019-03-05/buy_bat_coinbase.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+Many services and businesses do accept Bitcoin or other cryptocurrencies as regular payments now, but if you are going to buy a service such as a VPN service, and want touse crypto to privately purchase this, don't use tokens/coins you have bought on a main service like Coinbase, addresses can be tracked, unless you use a challenging tumbler service. Use a local Bitcoin ATM, &lt;b&gt;&lt;a href=&quot;/crypto/2019/03/07/crypto-on-changelly&quot;&gt;changelly&lt;/a&gt;&lt;/b&gt;, or search for another anonymous purchasing service.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;text&quot;&gt;
+  &lt;p&gt;
+  Disclaimer: This is not financial advice, it's your responsibility. This is ONLY
+  a guide to learn how to buy or use crypto currencies, they are very volitile and may not
+  be a safe store of value
+  &lt;/p&gt;
+&lt;/div&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Why you should use Brave browser</title>
+   <link href="https://mountaindefense.net/security/technology/tutorial/2019/02/28/Brave-Browser.html"/>
+   <updated>2019-02-28T11:16:00-07:00</updated>
+   <id>https://mountaindefense.net/security/technology/tutorial/2019/02/28/Brave-Browser</id>
+   <content type="html">&lt;p&gt;
+For anyone that hates ads, like products that utilize the latest
+security features, has plenty of customization, and doesn't look like 1995
+Netscape, take a look at Brave here &lt;b&gt;&lt;a href=&quot;https://brave.com/mou762&quot;&gt;https://brave.com/mou762&lt;/a&gt;&lt;/b&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/posts/2019-02-28/brave.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+The browser blocks thousands of ads, trackers, cookies, and scripts, easily
+turn off a security feature, or the &quot;shields&quot;, if it is hindering something on a
+site you are visiting. Another built in security feature is blocking auto play
+and scripts by default, so you reduce your exposure to accidentaly download any malicious
+content.
+&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/posts/2019-02-28/brave_shields.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;There's a full list of other features.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/posts/2019-02-28/other_features.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+  If you still really hate ads, but want support your favorite websites and
+authors, or your favorite youtube channel, or even a twitch streamer,
+you can! Through BAT, Basic Authentication Token, you can contribute any
+amount you want. Currently Brave is distributing grants to encourage adoption,
+once they no longer distribute monthly tokens for you to use, you can buy them,
+or, you will be able to &quot;opt in&quot; to certain ads, to earn tokens, which you
+can then spend at over 250,000 partners with BAT, or re-contribute to content
+creators! Take a look at this other&lt;b&gt;&lt;a href=&quot;https://brave.com/brave-tap-blockchain/&quot;&gt; article&lt;/a&gt;&lt;/b&gt; for other information on the partners.
+&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/posts/2019-02-28/contribute_with_balance.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+Set auto contribute on settings or turn completely off.
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/posts/2019-02-28/auto_contribute_settings.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+The opt in adds feature is not yet available,
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/posts/2019-02-28/brave_ads.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+but if you want to add funds now or later, you can currently contribute Bitcoin,
+Ethereum, Litecoin, and of course BAT. See some of my other &lt;b&gt;&lt;a href=&quot;https://mountaindefense.net/blog/category#crypto&quot;&gt;posts&lt;/a&gt;&lt;/b&gt; to learn how
+to buy BAT or other crypto currencies.
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/posts/2019-02-28/add_funds.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+For frequently browsed sites, add them to the tip section through auto contribute,
+or remove any sites that were added that you don't really support ;)
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/posts/2019-02-28/tips.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+The browser also can sync between your devices! Simply select the sync option from
+your browser menu.
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/posts/2019-02-28/sync_menu.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/posts/2019-02-28/sync_setup.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;
+And capture the QR code from your phone. Make sure you download the Android or IOS
+app here &lt;b&gt;&lt;a href=&quot;https://brave.com/mou762&quot;&gt;https://brave.com/mou762&lt;/a&gt;&lt;/b&gt; first!
+&lt;/p&gt;
+&lt;p&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+
+If you still need help, you can always look at
+&lt;br /&gt;
+&lt;b&gt;&lt;a href=&quot;https://support.brave.com/hc/en-us&quot;&gt;support.brave.com&lt;/a&gt;&lt;/b&gt;
+&lt;br /&gt;
+or
+&lt;br /&gt;
+&lt;b&gt;&lt;a href=&quot;https://community.brave.com/&quot;&gt;community.brave.com&lt;/a&gt;&lt;/b&gt;.
+&lt;br /&gt;
+If you're more technical &lt;b&gt;&lt;a href=&quot;https://github.com/brave&quot;&gt;github.com/brave&lt;/a&gt;&lt;/b&gt;.
+&lt;br /&gt;
+Of just email them at &lt;b&gt;&lt;a href=&quot;mailto:support@brave.com&quot;&gt;support@brave.com&lt;/a&gt;&lt;/b&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+TOR is also built in! Select your browser menu, then open a private window through TOR! It's that easy.
+&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/posts/2019-02-28/tor.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;
+They are implementing ENSI by default, see these links to see how this affects your security through your local ISP.
+&lt;br /&gt;
+&lt;br /&gt;
+
+&lt;b&gt;&lt;a href=&quot;https://community.brave.com/t/where-is-the-option-to-encrypted-ensi/43900
+&quot;&gt;where-is-the-option-to-encrypted-ensi&lt;/a&gt;&lt;/b&gt;
+&lt;br /&gt;
+
+&lt;b&gt;&lt;a href=&quot;https://github.com/brave/brave-browser/issues/1851
+&quot;&gt;feature: support encrypted SNI #1851
+&lt;/a&gt;&lt;/b&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;
+HTTPS upgrades force sites to upgrade to use https further helping you stay secure!
+&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/posts/2019-02-28/https.png&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+I installed this browser in a Linux Debian instance and was not able to initially open the browser.
+here's a link to the common&lt;b&gt;&lt;a href=&quot;https://github.com/brave/browser-laptop/issues/6902#issuecomment-374607423&quot;&gt;
+Debian issue
+&lt;/a&gt;&lt;/b&gt; I experienced.
+I had to add run this cli command from root;
+&lt;br /&gt;
+&lt;br /&gt;
+
+&lt;p style=&quot;background-color: rgb(236, 236, 236);&quot;&gt;
+&lt;code&gt;
+echo 'kernel.unprivileged_userns_clone=1' &amp;gt; /etc/sysctl.d/00-local-userns.conf
+&lt;br /&gt;
+service procps restart
+&lt;/code&gt;
+&lt;/p&gt;
+&lt;br /&gt;
+If you have issues check out the &lt;b&gt;&lt;a href=&quot;https://github.com/brave/brave-browser/issues&quot;&gt;github repo&lt;/a&gt;&lt;/b&gt; or add a comment
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;
+For now you can support your favorite sites for free, soon, for as little as a cup of coffee a month, you can automatically support your favorite
+sites without seeing ads, and soon, you'll be able to even earn that by opting into a few ads, creating this nice ecosystem.
+
+&lt;b&gt;Now go download &lt;a href=&quot;https://brave.com/mou762&quot; class=&quot;link&quot;&gt;Brave&lt;/a&gt;!&lt;/b&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

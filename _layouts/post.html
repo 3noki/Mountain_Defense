@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <link rel="stylesheet" href="/assets/css/share.css">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Cantarell" rel="stylesheet">
+    {% feed_meta %}
+    {% seo %}
+  </head>
+  <body >
+    <header class="blog_header">
+    {% include navigation.html %}
+    </header>
+
+    <div class="other_posts">
+      {% for tag in tags %}
+      	<a href="#{{ tag | slugify }}"> {{ tag }} </a>
+      {% endfor %}
+
+    <!-- If this is a post, show previous/next post links -->
+    {% if page.id %}
+      {% if page.previous.url %}
+      &#8592;
+      <a href="{{page.previous.url}}">{{page.previous.title}}</a>
+      {% endif %}
+      &nbsp; | &nbsp;
+      {% if page.next.url %}
+      <a title="{{page.previous.title}}" href="{{page.next.url}}">{{page.next.title}}</a>
+      &#8594;
+      {% endif %}
+    {% endif %}
+    </div>
+    <br/>
+    <div class="post">
+      <h1 style="text-align: center;">{{ page.title }}</h1>
+      <p class="text" style="text-align: center;">{{ page.date | date_to_string }} - {{ page.author }}</p>
+      {{ content }}
+      {% include share.html %}
+    </div>
+
+</body>
+</html>

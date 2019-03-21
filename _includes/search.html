@@ -1,0 +1,19 @@
+<!-- Html Elements for Search -->
+<div class="search-container">
+<input type="email" class="search-input" placeholder="search...">
+<ul class="results-container">
+  <li><a href="{url}">{title}</a></li>
+</ul>
+</div>
+
+<!-- Script pointing to search-script.js -->
+<script src="/assets/js/search.js" type="text/javascript"></script>
+
+<!-- Configuration -->
+<script>
+SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  json: '/search.json'
+})
+</script>

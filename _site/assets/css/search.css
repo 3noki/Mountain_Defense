@@ -1,0 +1,11 @@
+.search-container {
+  text-align: right;
+  border: 1px solid black; }
+
+.results-container {
+  text-align: right;
+  border: 1px solid pink; }
+
+.search-input {
+  text-align: right;
+  border: 1px solid blue; }

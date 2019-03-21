@@ -1,0 +1,36 @@
+---
+layout: blog
+title: Blog
+pagination:
+  enabled: false
+---
+<br/>
+<div class="blog-max-height">
+
+  <div class="tags">
+    <div class="tags-list">
+      <a href="/atom.xml"><i class="fa fa-rss" ></i><text>&nbsp;rss</text></a>&nbsp;
+      {% for tag in site.tags %}
+      <a href="/blog/category.html/#{{ tag[0] | slugify }}" class="post-tag">
+        <i class="fa fa-tag"></i> {{ tag[0] }}</a>
+      {% endfor %}
+    </div>
+  </div>
+  <br/>
+
+<div class="blog_articles">
+{% for post in site.posts %}
+<table>
+  <tr>
+    <hr/>
+      <td class="grey_text">{{ post.date | date: "%B %-d  %Y" }}</td>
+    <th style="font-weight: normal"><a href="{{ post.url }}">{{ post.title }}</a></th>
+    <!-- <td>{% for tag in post.tags %}
+      <a href="/blog/category.html/#{{ tag | slugify }}" class='text'>{{ tag }}</a>
+      {% endfor %}</td> -->
+    </tr>
+</table>
+{% endfor %}
+</div>
+
+</div>

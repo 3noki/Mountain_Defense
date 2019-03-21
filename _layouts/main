@@ -1,0 +1,3 @@
+{% if page.layout == 'post' %}
+    <h2>{{ page.title }}</h2>
+{% endif %}
