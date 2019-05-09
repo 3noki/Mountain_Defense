@@ -11,8 +11,9 @@ tags:       [crypto, tutorial]
 <p>
 While I'm not a big fan of coinbase, they make it darn easy for anyone new to
 crypto currencies to buy. Sign up with this link
-<b><a href="https://www.coinbase.com/join/5293694b2e44f360bc00036d">https://www.coinbase.com/join/</a></b>
-and you can get $10 worth of Bitcoin free. ****if you buy at least $100 of Bitcoin
+<b><a href="https://www.coinbase.com/join/5293694b2e44f360bc00036d">https://www.coinbase.com/join</a></b>
+and you can get $10 worth of Bitcoin free. ****if you buy at least $100 of Bitcoin or click here, <a href="https://coinbase.com/earn/xlm/invite/f4dyzpcq
+">https://coinbase.com/earn/xlm<a> and you can earn some Steller Lumens
 </p>
 <br/>
 ![](/posts/2019-03-05/coinbase_referral.png)
