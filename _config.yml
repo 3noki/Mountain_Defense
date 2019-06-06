@@ -32,11 +32,11 @@ nav:
   Home:
     - '/'
   Blog:
-    - '/articles/'
-    - { Categories: '/articles/categories/' }
-    - { Tags: '/articles/tags/' }
+    - '/blog/'
+    - { Categories: '/blog/categories/' }
+    - { Tags: '/blog/tags/' }
   About:
     - '/about/'
 
-tag_page: '/articles/tags/'
-category_page: '/articles/categories/'
+tag_page: '/blog/tags/'
+category_page: '/blog/categories/'
