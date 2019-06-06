@@ -1,0 +1,29 @@
+---
+layout: blog
+title: Tag
+---
+<br/>
+<div class="tags">
+  <div class="tags-list">
+    {% for tag in site.tags %}
+    <a href="#{{ tag[0] | slugify }}" class="post-tag"><i class="fa fa-tag"></i> {{ tag[0] }}</a>
+    {% endfor %}
+  </div>
+  <div class="tags-section">
+    {% for tag in site.tags %}
+    <h2 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h2>
+    <ul class="tags-posts">
+      {% for post in tag[1] %}
+        <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
+      <li>
+        {{ post.title }}
+      <text class="grey_text">
+      <small class="post-date">{{ post.date | date_to_string }}</small>
+    </text>
+      </li>
+      </a>
+      {% endfor %}
+    </ul>
+    {% endfor %}
+  </div>
+</div>

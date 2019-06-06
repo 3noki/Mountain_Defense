@@ -1,7 +1,7 @@
 #site settings
 title: mountain_defense
 url: https://mountaindefense.net
-baseurl: 
+baseurl:
 
 # Pagination Settings
 pagination:
@@ -32,11 +32,11 @@ nav:
   Home:
     - '/'
   Blog:
-    - '/blog/'
-    - { Categories: '/blog/categories/' }
-    - { Tags: '/blog/tags/' }
+    - '/articles/'
+    - { Categories: '/articles/categories/' }
+    - { Tags: '/articles/tags/' }
   About:
     - '/about/'
 
-tag_page: '/blog/tags/'
-category_page: '/blog/categories/'
+tag_page: '/articles/tags/'
+category_page: '/articles/categories/'
