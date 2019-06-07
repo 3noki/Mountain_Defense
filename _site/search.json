@@ -104,6 +104,17 @@
   
    {
      
+        "title"    : "Categories",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/articles/category.html",
+        "date"     : "",
+        "content"  : "         security       technology       tutorial       crypto       business       vpn                security                                  Why you may want to consider using a VPN              15 Mar 2019                                              Why small businesses are targets for hackers              10 Mar 2019                                              Why you should use Brave browser              28 Feb 2019                                  technology                                  Why you may want to consider using a VPN              15 Mar 2019                                              How to use Metamask              11 Mar 2019                                              How to use Kyber swap              11 Mar 2019                                              Why you should use Brave browser              28 Feb 2019                                  tutorial                                  How to use Metamask              11 Mar 2019                                              How to use Kyber swap              11 Mar 2019                                              How to buy crypto on Changelly              07 Mar 2019                                              How to buy crypto on Coinbase              05 Mar 2019                                              Why you should use Brave browser              28 Feb 2019                                  crypto                                  How to use Metamask              11 Mar 2019                                              How to use Kyber swap              11 Mar 2019                                              How to buy crypto on Changelly              07 Mar 2019                                              How to buy crypto on Coinbase              05 Mar 2019                                  business                                  Why small businesses are targets for hackers              10 Mar 2019                                  vpn                                  Why you may want to consider using a VPN              15 Mar 2019                                  "
+     
+   } ,
+  
+   {
+     
    } ,
   
    {
@@ -122,7 +133,7 @@
         "title"    : "Articles",
         "category" : "",
         "tags"     : "",
-        "url"      : "/blog/",
+        "url"      : "/articles/",
         "date"     : "",
         "content"  : "            &nbsp;rss&nbsp;                     security                     technology                     tutorial                     crypto                     business                     vpn                          March 15  2019    Why you may want to consider using a VPN                    March 11  2019    How to use Metamask                    March 11  2019    How to use Kyber swap                    March 10  2019    Why small businesses are targets for hackers                    March 7  2019    How to buy crypto on Changelly                    March 5  2019    How to buy crypto on Coinbase                    February 28  2019    Why you should use Brave browser        "
      

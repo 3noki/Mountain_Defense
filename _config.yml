@@ -32,9 +32,9 @@ nav:
   Home:
     - '/'
   Blog:
-    - '/blog/'
-    - { Categories: '/blog/categories/' }
-    - { Tags: '/blog/tags/' }
+    - '/articles/'
+    - { Categories: '/articles/categories/' }
+    - { Tags: '/articles/tags/' }
   About:
     - '/about/'
 
