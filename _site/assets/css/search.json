@@ -51,7 +51,7 @@
       "tags"     : "crypto, tutorial",
       "url"      : "/crypto/tutorial/2019/03/05/crypto-coinbase.html",
       "date"     : "2019-03-05 11:16:00 -0700",
-      "content"  : "While I'm not a big fan of coinbase, they make it darn easy for anyone new tocrypto currencies to buy. Sign up with this linkhttps://www.coinbase.com/join/and you can get $10 worth of Bitcoin free. ****if you buy at least $100 of BitcoinOnce you are signed up, link an account, a bank accounk may take a few days to verify,or you can add a credit card and pruchase immediately.After you have a payment type linked, you can buy BAT, or a handlefull of othercrypto currenies currently listed on CoinbaseMany services and businesses do accept Bitcoin or other cryptocurrencies as regular payments now, but if you are going to buy a service such as a VPN service, and want touse crypto to privately purchase this, don't use tokens/coins you have bought on a main service like Coinbase, addresses can be tracked, unless you use a challenging tumbler service. Use a local Bitcoin ATM, changelly, or search for another anonymous purchasing service.    Disclaimer: This is not financial advice, it's your responsibility. This is ONLY  a guide to learn how to buy or use crypto currencies, they are very volitile and may not  be a safe store of value  "
+      "content"  : "While I'm not a big fan of coinbase, they make it darn easy for anyone new tocrypto currencies to buy. Sign up with this linkhttps://www.coinbase.com/joinand you can get $10 worth of Bitcoin free. ****if you buy at least $100 of Bitcoin or click here, https://coinbase.com/earn/xlm and you can earn some Steller Lumens&lt;/p&gt;![](/posts/2019-03-05/coinbase_referral.png)Once you are signed up, link an account, a bank accounk may take a few days to verify,or you can add a credit card and pruchase immediately.![](/posts/2019-03-05/link_account.png)After you have a payment type linked, you can buy BAT, or a handlefull of othercrypto currenies currently listed on Coinbase![](/posts/2019-03-05/buy_bat_coinbase.png)Many services and businesses do accept Bitcoin or other cryptocurrencies as regular payments now, but if you are going to buy a service such as a VPN service, and want touse crypto to privately purchase this, don't use tokens/coins you have bought on a main service like Coinbase, addresses can be tracked, unless you use a challenging tumbler service. Use a local Bitcoin ATM, changelly, or search for another anonymous purchasing service.    Disclaimer: This is not financial advice, it's your responsibility. This is ONLY  a guide to learn how to buy or use crypto currencies, they are very volitile and may not  be a safe store of value  "
     } ,
   
     {
@@ -119,18 +119,7 @@
   
    {
      
-        "title"    : "Home",
-        "category" : "",
-        "tags"     : "",
-        "url"      : "/",
-        "date"     : "",
-        "content"  : "  We are currently based in Salida Colorado providing services  to local and small businesses that have a need for security, but cannot  afford the costly prices of the major market vendors.  The cybersecurity services are outlined on the below      Traffic and log analysis              This is our capstone service, managed security services can get costly,      especially for small businesses. A basic model IPS device runs around $25,000      plus a yearly $25,000 for support, signatures supscription, and maintenance.      To provide security in an affordable manner,      or in the absence of firewalls and IPS devices, this service analyses all      traffic for abnormal and malicious behavior.      This service helps flush out a positive security posture to help      guard your business against the most recent threats in an afforable manner.                  Analysis and action on alerts is not yet offered as a service,      but anomalies are reported for further investigation and these events can be reported to anyone      within your organization or IT team.                      Successful referrals signed up for any of our services can help reduce costs.              *minimum of 12/month contract                Vulnerability scanning              Regular vulnerability scanning and reporting of your network. Reports      can be delivered to your IT team for patching and remediation.                          *minimum of 12/month contract          "
-     
-   } ,
-  
-   {
-     
-        "title"    : "Blog",
+        "title"    : "Articles",
         "category" : "",
         "tags"     : "",
         "url"      : "/blog/",
@@ -141,9 +130,12 @@
   
    {
      
-   } ,
-  
-   {
+        "title"    : "Mountain Defense",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/",
+        "date"     : "",
+        "content"  : "  We are based in Salida Colorado providing services  to local and small businesses that have a need for security, but cannot  afford the costly prices of the major market vendors.  The cybersecurity services are outlined below      Traffic and log analysis              This is our capstone service, managed security services can get costly,      especially for small businesses. In addition to the basic model IPS device,      companies have to tack on extra costs for support, signatures supscription, and maintenance.      To provide security in an affordable manner,      or in the absence of firewalls and IPS devices, this service analyses all      traffic for abnormal and malicious behavior.      This service helps create a positive security posture to help      guard your business against the most recent threats in an afforable manner.                  Action on alerts is not yet offered as a service since we do not manage customer devices,      but anomalies are reported for further investigation and these events can be reported to anyone      within your organization or IT team.                      Successful referrals signed up for any of our services will receive a discount to help reduce costs.              *minimum of 12/month contract                Vulnerability scanning              Regular vulnerability scanning and reporting of your network. Reports      can be delivered to your IT team for patching and remediation.                          *minimum of 12/month contract          "
      
    } ,
   
@@ -160,6 +152,25 @@
    } ,
   
    {
+     
+   } ,
+  
+   {
+     
+   } ,
+  
+   {
+     
+   } ,
+  
+   {
+     
+        "title"    : "Tag",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/articles/tag.html",
+        "date"     : "",
+        "content"  : "      {% for tag in site.tags %}     {{ tag[0] }}    {% endfor %}        {% for tag in site.tags %}    {{ tag[0] }}          {% for post in tag[1] %}                      {{ post.title }}            {{ post.date | date_to_string }}                      {% endfor %}        {% endfor %}  "
      
    } ,
   
