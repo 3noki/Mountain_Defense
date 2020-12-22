@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>mountain_defense</title>
- <link href="https://mountaindefense.net/atom.xml" rel="self"/>
- <link href="https://mountaindefense.net/"/>
- <updated>2019-08-20T18:47:33-06:00</updated>
- <id>https://mountaindefense.net</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2020-12-22T11:59:56-07:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Why you may want to consider using a VPN</title>
-   <link href="https://mountaindefense.net/vpn/security/technology/2019/03/15/vpn.html"/>
+   <link href="http://localhost:4000/vpn/security/technology/2019/03/15/vpn.html"/>
    <updated>2019-03-15T11:30:00-06:00</updated>
-   <id>https://mountaindefense.net/vpn/security/technology/2019/03/15/vpn</id>
+   <id>http://localhost:4000/vpn/security/technology/2019/03/15/vpn</id>
    <content type="html">&lt;p&gt;
 If you read through some of my posts you should soon get it if you haven't already, security
 is an issue, and a big one, ignoring the problem does not make it go away, and you need to take an active approach to protecting yourself and your families data online.
@@ -146,9 +146,9 @@ And
  
  <entry>
    <title>How to use Metamask</title>
-   <link href="https://mountaindefense.net/crypto/technology/tutorial/2019/03/11/metamask-app.html"/>
+   <link href="http://localhost:4000/crypto/technology/tutorial/2019/03/11/metamask-app.html"/>
    <updated>2019-03-11T00:30:00-06:00</updated>
-   <id>https://mountaindefense.net/crypto/technology/tutorial/2019/03/11/metamask-app</id>
+   <id>http://localhost:4000/crypto/technology/tutorial/2019/03/11/metamask-app</id>
    <content type="html">&lt;p&gt;
 To get the Metamask extension, follow the rough guide and notes below;
 &lt;/p&gt;
@@ -248,9 +248,9 @@ Or contact them for support from any of these;
  
  <entry>
    <title>How to use Kyber swap</title>
-   <link href="https://mountaindefense.net/crypto/technology/tutorial/2019/03/11/kybernetwork.html"/>
+   <link href="http://localhost:4000/crypto/technology/tutorial/2019/03/11/kybernetwork.html"/>
    <updated>2019-03-11T00:30:00-06:00</updated>
-   <id>https://mountaindefense.net/crypto/technology/tutorial/2019/03/11/kybernetwork</id>
+   <id>http://localhost:4000/crypto/technology/tutorial/2019/03/11/kybernetwork</id>
    <content type="html">&lt;p&gt;
 Kyber swap, &lt;b&gt;&lt;a href=&quot;https://kyberswap.com/swap/&quot;&gt;kyberswap.com/swap&lt;/a&gt;&lt;/b&gt;, makes it easy to swap your tokens for something else. And, it's a decentralized platform! It's a bit like
 &lt;b&gt;&lt;a href=&quot;https://shapeshift.io&quot;&gt;ShapeShift.io&lt;/a&gt;&lt;/b&gt;. When I last used ShapeShift
@@ -318,9 +318,9 @@ If you want to learn more, or keep up with their developments, head over &lt;b&g
  
  <entry>
    <title>Why small businesses are targets for hackers</title>
-   <link href="https://mountaindefense.net/business/security/2019/03/10/small-business-targets.html"/>
+   <link href="http://localhost:4000/business/security/2019/03/10/small-business-targets.html"/>
    <updated>2019-03-10T11:30:00-06:00</updated>
-   <id>https://mountaindefense.net/business/security/2019/03/10/small-business-targets</id>
+   <id>http://localhost:4000/business/security/2019/03/10/small-business-targets</id>
    <content type="html">&lt;p&gt;
 The main reason we started out with a mindset and approach to provide security
 services to small businesses is for a few reasons, they don't care, it costs too much,
@@ -386,9 +386,9 @@ think and act before you get hacked
  
  <entry>
    <title>How to buy crypto on Changelly</title>
-   <link href="https://mountaindefense.net/crypto/tutorial/2019/03/07/crypto-on-changelly.html"/>
+   <link href="http://localhost:4000/crypto/tutorial/2019/03/07/crypto-on-changelly.html"/>
    <updated>2019-03-07T12:34:00-07:00</updated>
-   <id>https://mountaindefense.net/crypto/tutorial/2019/03/07/crypto-on-changelly</id>
+   <id>http://localhost:4000/crypto/tutorial/2019/03/07/crypto-on-changelly</id>
    <content type="html">&lt;p&gt;
 A better way to buy into crypto is to use changelly, you can buy with a credit card
 or even a gift cards. Head over to this link
@@ -429,9 +429,9 @@ Click on next and then enter your billing/payment info
  
  <entry>
    <title>How to buy crypto on Coinbase</title>
-   <link href="https://mountaindefense.net/crypto/tutorial/2019/03/05/crypto-coinbase.html"/>
+   <link href="http://localhost:4000/crypto/tutorial/2019/03/05/crypto-coinbase.html"/>
    <updated>2019-03-05T11:16:00-07:00</updated>
-   <id>https://mountaindefense.net/crypto/tutorial/2019/03/05/crypto-coinbase</id>
+   <id>http://localhost:4000/crypto/tutorial/2019/03/05/crypto-coinbase</id>
    <content type="html">&lt;p&gt;
 While I'm not a big fan of coinbase, they make it darn easy for anyone new to
 crypto currencies to buy. Sign up with this link
@@ -476,9 +476,9 @@ Many services and businesses do accept Bitcoin or other cryptocurrencies as regu
  
  <entry>
    <title>Why you should use Brave browser</title>
-   <link href="https://mountaindefense.net/security/technology/tutorial/2019/02/28/Brave-Browser.html"/>
+   <link href="http://localhost:4000/security/technology/tutorial/2019/02/28/Brave-Browser.html"/>
    <updated>2019-02-28T11:16:00-07:00</updated>
-   <id>https://mountaindefense.net/security/technology/tutorial/2019/02/28/Brave-Browser</id>
+   <id>http://localhost:4000/security/technology/tutorial/2019/02/28/Brave-Browser</id>
    <content type="html">&lt;p&gt;
 For anyone that hates ads, like products that utilize the latest
 security features, has plenty of customization, and doesn't look like 1995
