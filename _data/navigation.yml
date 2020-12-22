@@ -2,7 +2,9 @@
   link: /
 # - name: About
 #   link: /about.html
-- name: Contact
-  link: /contact.html
+- name: About
+  link: /about
 - name: Articles
-  link: /articles/index.html
+  link: /articles/
+- name: Contact
+  link: /contact
